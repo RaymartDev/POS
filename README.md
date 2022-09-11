@@ -82,3 +82,23 @@ Admin and Super Admin access are all the same except that Super Admin is the onl
 - You can add stocks here from outlet.
 - You can select a vendor where the stock will come from.
 - You must generate a reference # about this stock event so that it will be shown in Stock In History after you finished stocking in.
+
+## Stock History
+
+![Image](images/image7.png)
+
+### Function:
+
+- You can check here the records of the stock in that happened from outlet.
+- You can check the reference #, description of the product, quantity and who made that process.
+- You can also modify the date range above.
+
+## Stock Adjustment
+
+![Image](images/image8.png)
+
+### Function:
+
+- You can select all one of the available item then choose a command and put a remarks to complete an adjustment.
+- There are three available commands: Add to inventory ( By doing this you will add quantity to that product as an administrator ), Remove from inventory ( If by chance there is a mistake in stock in, you can remove quantity of product as an administrator ), Outlet to Commissary ( You can remove quantity from outlet and add stock to the commissary inventory )
+- You can search a product by its description if there is a lot.
