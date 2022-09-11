@@ -25,7 +25,7 @@ The client does not want me to spend much time with the design. All the designs 
 
 ## Login Form
 
-![Image](../images/image1.png)
+![Image](images/image1.png)
 
 Depending on the role it will automatically log you on to your respective tools.
 
@@ -37,7 +37,7 @@ Admin and Super Admin access are all the same except that Super Admin is the onl
 
 ## Dashboard
 
-![Image](../images/image2.png)
+![Image](images/image2.png)
 
 ### Function:
 
@@ -48,11 +48,11 @@ Admin and Super Admin access are all the same except that Super Admin is the onl
 - This will also show you the chart of sales in a yearly basis.
 - You will get a notification if the product needs to be re stocked which will show at the bottom right of your screen and this is the sample:
 
-![Image](../images/image3.png)
+![Image](images/image3.png)
 
 ## Vendor
 
-![Image](../images/image4.png)
+![Image](images/image4.png)
 
 ### Function:
 
@@ -63,7 +63,7 @@ Admin and Super Admin access are all the same except that Super Admin is the onl
 
 ## Manage Product
 
-![Image](../images/image5.png)
+![Image](images/image5.png)
 
 ### Function:
 
@@ -73,7 +73,7 @@ Admin and Super Admin access are all the same except that Super Admin is the onl
 
 ## Stock Entry
 
-![Image](../images/image6.png)
+![Image](images/image6.png)
 
 ### Function:
 
@@ -83,7 +83,7 @@ Admin and Super Admin access are all the same except that Super Admin is the onl
 
 ## Stock History
 
-![Image](../images/image7.png)
+![Image](images/image7.png)
 
 ### Function:
 
@@ -93,7 +93,7 @@ Admin and Super Admin access are all the same except that Super Admin is the onl
 
 ## Stock Adjustment
 
-![Image](../images/image8.png)
+![Image](images/image8.png)
 
 ### Function:
 
@@ -103,7 +103,7 @@ Admin and Super Admin access are all the same except that Super Admin is the onl
 
 ## Records
 
-![Image](../images/image9.png)
+![Image](images/image9.png)
 
 ### Function:
 
@@ -111,7 +111,7 @@ Admin and Super Admin access are all the same except that Super Admin is the onl
 
 ## Sales History
 
-![Image](../images/image10.png)
+![Image](images/image10.png)
 
 ### Function
 
@@ -121,7 +121,7 @@ Admin and Super Admin access are all the same except that Super Admin is the onl
 
 ## Inventory
 
-![Image](../images/image11.png)
+![Image](images/image11.png)
 
 ### Note:
 
@@ -144,3 +144,35 @@ This is only available to super admin
 - You can create any account here: Super Admin, Admin or Cashier.
 - You can change anyone’s password including your password.
 - You can delete any account, activate or deactivate an account.
+
+## Cashier View
+
+## Dashboard
+
+![Image](images/image13.png)
+
+## Function:
+
+- You can add discount, search product by its pcode, add discount, clear cart, change your password, and check your daily sales.
+  ![Image](images/image14.png)
+  ![Image](images/image15.png)
+- By clicking new transaction. It will generate a transaction no which will allow you to add orders by searching it to the search box or clicking the search product which will show you this scene:
+  ![Image](images/image16.png)
+- You can add a discount by selecting the item and click the add discount at the left side
+  ![Image](images/image17.png)
+- By clicking settle payment. It will complete your order
+  ![Image](images/image18.png)
+- As you can see it will show you the change if you put the amount of the money of the customer at the top.
+- By clicking clear cart it will simply clear the cart of the order.
+  ![Image](images/image19.png)
+- You can click the daily sales and check all the sales you made in a daily basis.
+  ![Image](images/image20.png)
+- By clicking change password it will simply allow you to change your password.
+
+## Questions
+
+Should you have any questions or wanted to contact me:
+
+- Contact #: 09679472818
+- Email: raymart.sarmiento23@outlook.com
+  Thank you for reading.
