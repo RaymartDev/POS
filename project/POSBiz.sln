@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSBiz", "POSBiz\POSBiz.csproj", "{648734E6-8E77-498E-9FB2-461CE9FC678A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{DFC3E7B6-1E4B-430B-8C92-309904575084}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{648734E6-8E77-498E-9FB2-461CE9FC678A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{648734E6-8E77-498E-9FB2-461CE9FC678A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{648734E6-8E77-498E-9FB2-461CE9FC678A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{648734E6-8E77-498E-9FB2-461CE9FC678A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC3E7B6-1E4B-430B-8C92-309904575084}.Debug|Any CPU.ActiveCfg = Debug
+		{DFC3E7B6-1E4B-430B-8C92-309904575084}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4976D5E-6671-41DB-B654-5E69561DE350}
+	EndGlobalSection
+EndGlobal
