@@ -19,15 +19,13 @@ The sole purpose of this is to document the software that I developed for the cl
 - Secured for potential SQL Injection
 - Account for user and admin are fully controlled by super admin
 
-## UI Sample
-
 ### Note:
 
 The client does not want me to spend much time with the design. All the designs you are going to see are simple because I am more focused with the functionality of the project.
 
 ## Login Form
 
-![Image](images/image1.png)
+![Image](../images/image1.png)
 
 Depending on the role it will automatically log you on to your respective tools.
 
@@ -39,7 +37,7 @@ Admin and Super Admin access are all the same except that Super Admin is the onl
 
 ## Dashboard
 
-![Image](images/image2.png)
+![Image](../images/image2.png)
 
 ### Function:
 
@@ -50,11 +48,11 @@ Admin and Super Admin access are all the same except that Super Admin is the onl
 - This will also show you the chart of sales in a yearly basis.
 - You will get a notification if the product needs to be re stocked which will show at the bottom right of your screen and this is the sample:
 
-![Image](images/image3.png)
+![Image](../images/image3.png)
 
 ## Vendor
 
-![Image](images/image4.png)
+![Image](../images/image4.png)
 
 ### Function:
 
@@ -65,7 +63,7 @@ Admin and Super Admin access are all the same except that Super Admin is the onl
 
 ## Manage Product
 
-![Image](images/image5.png)
+![Image](../images/image5.png)
 
 ### Function:
 
@@ -75,7 +73,7 @@ Admin and Super Admin access are all the same except that Super Admin is the onl
 
 ## Stock Entry
 
-![Image](images/image6.png)
+![Image](../images/image6.png)
 
 ### Function:
 
@@ -85,7 +83,7 @@ Admin and Super Admin access are all the same except that Super Admin is the onl
 
 ## Stock History
 
-![Image](images/image7.png)
+![Image](../images/image7.png)
 
 ### Function:
 
@@ -95,7 +93,7 @@ Admin and Super Admin access are all the same except that Super Admin is the onl
 
 ## Stock Adjustment
 
-![Image](images/image8.png)
+![Image](../images/image8.png)
 
 ### Function:
 
@@ -105,7 +103,7 @@ Admin and Super Admin access are all the same except that Super Admin is the onl
 
 ## Records
 
-![Image](images/image9.png)
+![Image](../images/image9.png)
 
 ### Function:
 
@@ -113,7 +111,7 @@ Admin and Super Admin access are all the same except that Super Admin is the onl
 
 ## Sales History
 
-![Image](images/image10.png)
+![Image](../images/image10.png)
 
 ### Function
 
@@ -123,7 +121,7 @@ Admin and Super Admin access are all the same except that Super Admin is the onl
 
 ## Inventory
 
-![Image](images/image11.png)
+![Image](../images/image11.png)
 
 ### Note:
 
