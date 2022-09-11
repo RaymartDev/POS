@@ -102,3 +102,47 @@ Admin and Super Admin access are all the same except that Super Admin is the onl
 - You can select all one of the available item then choose a command and put a remarks to complete an adjustment.
 - There are three available commands: Add to inventory ( By doing this you will add quantity to that product as an administrator ), Remove from inventory ( If by chance there is a mistake in stock in, you can remove quantity of product as an administrator ), Outlet to Commissary ( You can remove quantity from outlet and add stock to the commissary inventory )
 - You can search a product by its description if there is a lot.
+
+## Records
+
+![Image](images/image9.png)
+
+### Function:
+
+- There are varieties of options: Top Selling, Sold Items, Critical Stocks, Inventory List, Cancelled Order, Stock In History. Which will allow you to see all the data sets information about the specific category you want and also has an option to change the date range.
+
+## Sales History
+
+![Image](images/image10.png)
+
+### Function
+
+- Here you can see all the data and also by filtering it by date range and cashier or all of your cashier.
+- The total is responsive to the total amount of the sets of data you are looking at.
+- The x button at the end will allow you to cancel an item. And will also show in cancelled item history.
+
+## Inventory
+
+![Image](images/image11.png)
+
+### Note:
+
+This is only available to super admin
+
+### Function:
+
+- You can add product and put their quantity.
+- You can edit existing product and delete it.
+- This information will appear to manage product which is available for administrators.
+
+## User Settings
+
+### Note:
+
+This is only available to super admin
+
+### Function:
+
+- You can create any account here: Super Admin, Admin or Cashier.
+- You can change anyone’s password including your password.
+- You can delete any account, activate or deactivate an account.
